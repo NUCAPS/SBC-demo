@@ -5,7 +5,7 @@ dependencies:
   - python=3.9
   - numpy
   - matplotlib
-  - netcdf4
+  - h5netcdf
   - ipython
   - notebook
   - s3fs

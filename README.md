@@ -2,6 +2,8 @@
 ### Author: Rebekah Esmaili
 
 ---
+Originally presented at the Oct 13, 2022 Satellite Book Club seminar.
+
 This very short tutorial will show the basic steps to accessing GOES-16 data on AWS and make an image of the [Sandwich RGB](https://www.star.nesdis.noaa.gov/goes/documents/SandwichProduct.pdf)!
 
 This demo will cover:
@@ -12,11 +14,11 @@ This demo will cover:
 * Make a plot of the sandwich product
 
 This code is interactive! Click:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/technica-workshop-2021/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NUCAPS/SBC-demo/HEAD)
 
 ---
 
-## Other Resources
+## Learning Resources
 
 * [Project Pythia](https://projectpythia.org/) has some great resources for learning Python
 * Learn more about [Python for Atmosphere and Ocean Scientists](https://carpentries-lab.github.io/python-aos-lesson/) using Software Carpentry lesson plans.
