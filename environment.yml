@@ -1,0 +1,12 @@
+name: sbc-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - netcdf4
+  - ipython
+  - notebook
+  - s3fs
+  - xarray
